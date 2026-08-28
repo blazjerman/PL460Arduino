@@ -1,0 +1,6 @@
+.Rhistory
+*.pyc
+__pycache__/
+.arduino/
+build/
+
